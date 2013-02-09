@@ -1,0 +1,23 @@
+{
+  "name": "videoloop.js",
+  "version": "0.1.0",
+  "description": "Unobtrusive HTML5 Video Loop Shim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilmoore/videoloop.js.git"
+  },
+  "keywords": [
+    "video",
+    "html5",
+    "loop",
+    "shim",
+    "polyfill"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
